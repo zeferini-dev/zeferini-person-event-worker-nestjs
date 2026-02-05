@@ -28,15 +28,13 @@ Thumbs.db
 .settings/
 *.sublime-workspace
 
-# IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+# Visual Studio Code settings
+.vscode/
+/.vscode/
 
-# IDE - Visual Studio
+# Visual Studio settings
 .vs/
+/.vs/
 
 # dotenv environment variable files
 .env
